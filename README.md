@@ -48,51 +48,16 @@ Actions:
 
 React components read the shared cart state with `useSelector` and update it with `useDispatch`.
 
-## Run locally
-
-Install Node.js (LTS) first. Then open this project folder in VS Code and run:
-
-```bash
-npm install
-npm run dev
 ```
 
-Open the local URL printed in the terminal, usually `http://localhost:5173`.
 
-To test a production build:
 
-```bash
-npm run build
-npm run preview
-```
+   `https://amaitsaid-maker.github.io/dztech-store/`
 
-## Deploy to GitHub Pages
 
-1. Create a new GitHub repository, for example `dztech-store`.
-2. Upload/push the project files to the repository. Do not upload `node_modules`.
-3. In the project terminal, run:
-
-   ```bash
-   npm install
-   npm run build
-   npm run deploy
-   ```
-
-4. On GitHub, open **Settings → Pages**.
-5. Under **Build and deployment**, choose **Deploy from a branch**.
-6. Select the `gh-pages` branch and the `/(root)` folder, then click **Save**.
-7. Wait a minute or two. Your site URL will look like:
-
-   `https://YOUR-GITHUB-USERNAME.github.io/dztech-store/`
-
-If you rename the repository, update the URL accordingly. The first deployment may take a few minutes to become available.
-
-## Screenshots
-
-Add screenshots of the running application here before submitting the project to Classroom.
 
 ## Student information
 
-- Student name: [Write your name here]
+- Student name: AIT SAID Mehdi
 - Module: WAMD
 - Application: DzTech Store
